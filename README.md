@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scottdmorris
-- 👀 I’m interested in artificial intelligence, and data analysis. 
+- 👀 I’m interested in Artificial Intelligence, and Data Analysis. 
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me at smorris2@oxy.edu
