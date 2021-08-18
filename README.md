@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scottdmorris
+- 👋 Hi, I’m Scott, a current senior and computer science major @OccidentalCollege
 - 👀 I’m interested in Artificial Intelligence, and Data Analysis. 
 - 🌱 I’m currently learning Python and Machine Learning
 - 💞️ I’m looking to collaborate on anything!
