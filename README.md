@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Scott, a current senior and computer science major @OccidentalCollege
-- 👀 My biggests interests are Artificial Intelligence, Data Analysis, and Game Design. 
+- 👋 Hi, I’m Scott, a current senior and computer science major @OccidentalCollege '22
+- 👀 My biggest interests are Python, Artificial Intelligence, Machine Learning, Data Science, and Game Design. 
 - 🌱 I’m currently learning Python and Machine Learning
-- 👨🏽‍💻 I’m looking to collaborate on anything!
+- 👨🏽‍💻 Currently looking for full-time software engineering roles!
 - 📫 You can reach me at smorris2@oxy.edu
 
 <!---
