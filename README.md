@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://scottmorris.dev)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@scootr)
 
-- 👨🏽‍🎓  I’m Scott, a recent graduate from @OccidentalCollege '22 with a bachelors degree in computer science
+- 👨🏽‍🎓  I’m a recent graduate from @OccidentalCollege '22 with a bachelors degree in computer science
 - 👀  My biggest interests are Python, Artificial Intelligence & Machine Learning, and Data Analysis. 
 - 🌱  I’m currently learning Javascript!
 - 👨🏽‍💻  Currently looking for full-time software engineering & data science roles!
