@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://scottmorris.dev" target="_blank">Scott Morris</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=scottdmorris.visitor-badge)
+### Hi there, I'm <a href="https://scottmorris.dev" target="_blank">Scott Morris</a>  ![](https://visitor-badge.glitch.me/badge?page_id=scottdmorris.visitor-badge)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottdmorris/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://scottmorris.dev)
@@ -10,8 +10,6 @@
 - 👨🏽‍💻  Currently looking for full-time software engineering & data science roles!
 - 📫  You can contact me at scootrmorris@gmail.com
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=scottdmorris&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vision-friendly-dark" />
 
 
 <!---
