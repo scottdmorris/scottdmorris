@@ -1,23 +1,45 @@
-### Hi there, I'm <a href="https://scottmorris.dev" target="_blank">Scott Morris</a>  ![](https://visitor-badge.glitch.me/badge?page_id=scottdmorris.visitor-badge)
+<h1 align="center"> Hi 👋🏽 I'm Scott 👨🏽‍💻
+</h1>  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottdmorris/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://scottmorris.dev)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@scootr)
-[![Resume Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)]([https://scottmorris.dev](https://docs.google.com/document/d/12fonv-q24lNFVaMC_Fcpu3_C2GcgSWYO3XRR-tr0-gE/edit?usp=sharing))
+<p align='center'>
+  Software Engineer. Leetcoder. Gamer.
+</p>
 
 
-- 👨🏽‍🎓  I’m a recent graduate from Occidental College '22 with a bachelors degree in Computer Science and minors in Cognitive Science & Media Arts & Culture.
-- 👀  My biggest interests are Python, Artificial Intelligence & Machine Learning, and Data Analysis. 
-- 🌱  I’m currently learning Javascript and working on my personal website!
-- 👨🏽‍💻  Currently looking for full-time software engineering & data science roles!
-- 📫  You can contact me at scootrmorris@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/scottdmorris/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:scootrmorris@gmail.com">
+    <img href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.scottmorris.dev">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=scottdmorris.visitor-badge" />
 
-Current Languages
+</p>
 
-[![image]("https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue")]
+<p align="center">
+ Take a look at my side projects!
+</p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=scootr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<p align='center'>
+  Languages<br/><br/>
+  
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
+<p align='center'>
+  
+  <img src="https://leetcode-stats-six.vercel.app/?username=scootr&theme=dark"/>
+
+</p>
 
 
 <!---
