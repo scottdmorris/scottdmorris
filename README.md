@@ -11,6 +11,7 @@
 - 📫  You can contact me at scootrmorris@gmail.com
 
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=scootr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
 scottdmorris/scottdmorris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
