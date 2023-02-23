@@ -16,7 +16,7 @@
   <a href="https://www.scottmorris.dev">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  
+  <br/>
   <img src="https://visitor-badge.glitch.me/badge?page_id=scottsmorris.visitor-badge"/>
 </p>
 
