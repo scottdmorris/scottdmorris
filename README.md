@@ -16,12 +16,6 @@
   <a href="https://www.scottmorris.dev">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <br/>
-
-  
-  ![](https://komarev.com/ghpvc/?username=scottdmorris&color=blue)
-
-  
 </p>
 
 <p align="center">
