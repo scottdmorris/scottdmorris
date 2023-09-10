@@ -17,7 +17,11 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <br/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=scottsmorris.visitor-badge"/>
+
+  
+  ![](https://komarev.com/ghpvc/?username=scottdmorris&color=blue)
+
+  
 </p>
 
 <p align="center">
