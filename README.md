@@ -1,20 +1,12 @@
 <div align="center">
 
-<sub>B R O O K L Y N ,  N Y</sub>
-
 <h1>scott <i>morris</i></h1>
 
-<i>data & backend engineer — pipelines, ml systems, ai tools</i>
-
-<br>
-
-──────────
-
-<br>
-
-<sub>W H A T   I   W O R K   W I T H</sub>
+<i>architecting data, intelligence, and the systems that connect them</i>
 
 <br><br>
+
+### What I Work With
 
 ![Python](https://img.shields.io/badge/python-000000?style=flat-square&logo=python&logoColor=e8e4dc)
 ![SQL](https://img.shields.io/badge/sql-000000?style=flat-square&logo=postgresql&logoColor=e8e4dc)
@@ -33,28 +25,20 @@
 ![Tableau](https://img.shields.io/badge/tableau-000000?style=flat-square&logo=tableau&logoColor=e8e4dc)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-000000?style=flat-square&logo=plotly&logoColor=e8e4dc)
 
-<br>
+### Currently
 
-──────────
+data & operations analyst<br>
+<i>in training: dsa, system design, and the architecture of intelligent systems</i>
 
-<br>
+### Contribution Graph
 
-<sub>C U R R E N T L Y</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scottdmorris/scottdmorris/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scottdmorris/scottdmorris/output/dist/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/scottdmorris/scottdmorris/output/dist/snake.svg" />
+</picture>
 
-<br><br>
-
-data & operations analyst at luften<br>
-<i>sharpening dsa & system design for backend/ai roles</i>
-
-<br>
-
-──────────
-
-<br>
-
-<sub>C O N T A C T</sub>
-
-<br><br>
+### Contact
 
 [smorri933@gmail.com](mailto:smorri933@gmail.com) · [linkedin](https://linkedin.com/in/scottdmorris) · [scootr.netlify.app](https://scootr.netlify.app)
 
