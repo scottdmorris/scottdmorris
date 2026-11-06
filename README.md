@@ -32,6 +32,6 @@ data & operations analyst<br>
 
 ### Contact
 
-[smorri933@gmail.com](mailto:smorri933@gmail.com) · [linkedin](https://linkedin.com/in/scottdmorris) · [scootr.netlify.app](https://scootr.netlify.app)
+[smorri933@gmail.com](mailto:smorri933@gmail.com) · [linkedin](https://linkedin.com/in/scottdmorris) · [scottdmorris.github.io/scootr](https://scottdmorris.github.io/scootr/)
 
 </div>
