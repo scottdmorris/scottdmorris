@@ -30,14 +30,6 @@
 data & operations analyst<br>
 <i>in training: dsa, system design, and the architecture of intelligent systems</i>
 
-### Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scottdmorris/scottdmorris/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scottdmorris/scottdmorris/output/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/scottdmorris/scottdmorris/output/snake.svg" />
-</picture>
-
 ### Contact
 
 [smorri933@gmail.com](mailto:smorri933@gmail.com) · [linkedin](https://linkedin.com/in/scottdmorris) · [scootr.netlify.app](https://scootr.netlify.app)
